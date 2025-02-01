@@ -1,5 +1,5 @@
 export const challenges = {
   newbie: [
-    { title: "starter", path: "#" },
+    { title: "QR Code", path: "/newbie/qr-code" },
   ],
 };
