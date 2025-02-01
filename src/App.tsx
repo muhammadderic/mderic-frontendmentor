@@ -1,8 +1,11 @@
+import { Route, Routes } from "react-router-dom"
+import Home from "./core/Home"
+
 function App() {
   return (
-    <div>
-      <h1>Hello Deric</h1>
-    </div>
+    <Routes>
+      <Route path="/" element={<Home />} />
+    </Routes>
   )
 }
 
