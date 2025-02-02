@@ -1,4 +1,5 @@
 import { BackButton } from "../../../core/BackButton";
+import qrCodeImg from "./image-qr-code.png";
 
 export default function QRCode() {
   return (
@@ -10,7 +11,7 @@ export default function QRCode() {
         {/* Card */}
         <div className="bg-white rounded-xl shadow-md p-4 w-[260px] sm:w-[300px] text-center">
           <img
-            src="/newbie/qr-code-component/image-qr-code.png"
+            src={qrCodeImg}
             alt="QR code to frontendmentor.io"
             className="w-full rounded-lg"
           />
