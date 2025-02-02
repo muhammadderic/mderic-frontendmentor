@@ -17,3 +17,7 @@ This repo is **not about skipping fundamentals** — I already have prior experi
 - Practicing **modern frontend workflows**
 - Writing cleaner, more maintainable code
 - Preparing myself for **production-grade frontend development**
+
+## Challenges
+
+- QR Code Component – A simple component that displays a QR code with title and description.
