@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.0] - 2025-09-06-1131
+### Added
+- Age Calculator App challenge – Implemented form validation, age calculation logic, and responsive UI with hover/focus states.
+
 ## [0.1.1] - 2025-09-06-1111
 ### Added
 - Vercel base url configuration

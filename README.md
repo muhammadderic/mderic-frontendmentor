@@ -21,3 +21,4 @@ This repo is **not about skipping fundamentals** — I already have prior experi
 ## Challenges
 
 - QR Code Component – A simple component that displays a QR code with title and description.
+- Age Calculator App – Build an app that calculates a person’s age in years, months, and days from a valid date input, with responsive design and validation for incorrect or incomplete entries.
