@@ -1,7 +1,8 @@
 import { useState } from "react";
-import { BackButton } from "../../../core/components/BackButton";
-import { DericAttribution } from "../../../core/components/dericAttribution";
 import { ArrowDown } from "lucide-react";
+
+import { BackButton } from "../../../core/components/BackButton";
+import { MDericAttribution } from "../../../core/components/MDericAttribution";
 
 export default function AgeCalculator() {
   const [day, setDay] = useState("");
@@ -180,7 +181,7 @@ export default function AgeCalculator() {
       </div>
 
       {/* Attribution */}
-      <DericAttribution />
+      <MDericAttribution />
     </div>
   );
 }

@@ -1,4 +1,4 @@
-export const DericAttribution = () => {
+export const MDericAttribution = () => {
   return (
     <div className="mt-6 text-xs text-center text-gray-600">
       Challenge by{" "}

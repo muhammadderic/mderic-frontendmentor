@@ -1,7 +1,7 @@
 import qrCodeImg from "./image-qr-code.png";
 
 import { BackButton } from "../../../core/components/BackButton";
-import { DericAttribution } from "../../../core/components/dericAttribution";
+import { MDericAttribution } from "../../../core/components/MDericAttribution";
 
 export default function QRCode() {
   return (
@@ -34,7 +34,7 @@ export default function QRCode() {
       </div>
 
       {/* Attribution */}
-      <DericAttribution />
+      <MDericAttribution />
     </div>
   );
 }
